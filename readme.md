@@ -30,9 +30,6 @@ I enjoy building tools, experimenting with ideas, and understanding how systems 
 **Web3**  
 `Solidity` • `Ethers.js`
 
-**AI & Automation**  
-`OpenAI API` • `Google Generative AI` • `Playwright` • `Python Scripting`
-
 **Tools & Environment**  
 `Git` • `Linux` • `Docker`
 
