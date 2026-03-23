@@ -8,7 +8,6 @@ I enjoy building tools, experimenting with ideas, and understanding how systems 
 
 • X / Twitter — https://x.com/madhavgairola
 • LinkedIn — https://linkedin.com/in/madhavgairola
-• Portfolio — coming soon  
 
 
 ---
