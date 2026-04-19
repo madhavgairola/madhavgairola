@@ -15,7 +15,7 @@ I enjoy building tools, experimenting with ideas, and understanding how systems 
 ## 💻 Tech Stack
 
 **Languages**  
-`C++` • `JavaScript` • `TypeScript` • `Python` • `Java` • `Go` • `PHP`
+`C++` • `JavaScript` • `TypeScript` • `Python` • `Java` • `PHP`
 
 **Frontend**  
 `React` • `Vite` • `TailwindCSS` • `Framer Motion`
