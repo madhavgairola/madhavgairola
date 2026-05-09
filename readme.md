@@ -21,7 +21,7 @@ I enjoy building tools, experimenting with ideas, and understanding how systems 
 `React` • `Vite` • `TailwindCSS` • `Framer Motion`
 
 **Backend**  
-`Node.js` • `Express.js` • `Flask`
+`Node.js` • `Express.js` • `Flask` ,`Django`
 
 **Databases & BaaS**  
 `PostgreSQL` • `Prisma` • `Firebase` • `Supabase`
