@@ -12,7 +12,7 @@ I enjoy building tools, experimenting with ideas, and understanding how systems 
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**  
 `C++` • `JavaScript` • `TypeScript` • `Python` • `Java` • `PHP`
