@@ -38,15 +38,5 @@ Lately I've been spending most of my time learning about AI systems, backend dev
 
 ---
 
-## Currently Learning
-
-* Applied AI Engineering
-* AI Agents
-* LangChain & LangGraph
-* Production AI Systems
-* Backend & System Design
-
----
-
 Thanks for stopping by!
 *Currently building, learning, and figuring things out along the way.*
